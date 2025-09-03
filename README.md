@@ -1,18 +1,58 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=jae-0%20Github%20%F0%9F%A4%97)
+## 🌐 Link
+<!-- [<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/23da5180-c39b-48f6-8f61-c5a3312dffd2" width="55" height="55">](https://gym-developer.tistory.com/) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/94f89e0f-320d-4b5e-bbe3-bce51a82f1f1" width="55" height="55">](https://blog.naver.com/gym_developer) &nbsp;&nbsp;
+[<img src="https://github.com/user-attachments/assets/c19d8436-0333-493f-881d-d1ea3b7c830d" width="55" height="55">](mailto:kjk06119@gmail.com) -->
 
-## Hi there 👋
+</br> 
 
-<!--
-**jae-0/jae-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👤 About Me
+백엔드 개발자 윤재영입니다.</br>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📽️ Projects
+|Project|Detail|
+|:---:|:---:|
+<!--| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/ureca-gram) | 사진과 짧은 글을 통해 서로의 일상을 공유하는 유레카 부트캠프 참여자들만을 위한 비공개 커뮤니티 피드형 SNS | -->
+
+</br>
+
+## 🎓 Education
+|Experience|Detail|Period|
+|---|---|---|
+| **LG유플러스 SW아카데미 유레카 3기** | 백엔드 과정 | 2025.08 ~ |
+| 전대학교 | 컴퓨터공학과 | 2020.03 ~ 26.02 (예정)|
+
+</br>
+
+## 💻 Experience
+|Experience|Detail|Period|
+|---|---|---|
+<!--| 2025 인디(inD)게임잼대전 | Unity와 C#을 활용, 물리 엔진 기반의 인터랙티브 게임 설계 및 구현 | 2025.07 ~ 25.07 | -->
+
+
+</br>
+
+## 🛠️ Stacks
+|Category|Main Stack|Sub Stack|
+|---|---|---|
+|**Backend**| <img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a> <img src="https://img.shields.io/badge/C%23-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> <img src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white"/></a> |
+|**Database**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a> |
+|**DevOps**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> |  |
+|**Infra**| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/></a> |
+|**Tool**| <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/></a> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a> | <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black"/></a> |
+
+</br>
+
+## 💳 Certificate
+|Certificate|Code|Organ|Period|
+|---|---|---|---|
+| **정보처리기사** |  | 한국산업인력공단 | 2025.02.15 |
+
+
+</br>
+
+  ## 🏆 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud0747)](https://solved.ac/wodud0747/) &nbsp;&nbsp;&nbsp; 
+[![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=wodud0747)](https://solved.ac/wodud0747/)
