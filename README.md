@@ -14,15 +14,7 @@
 ## 📽️ Projects
 |Project|Detail|
 |:---:|:---:|
-<!--| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.com/ureca-gram) | 사진과 짧은 글을 통해 서로의 일상을 공유하는 유레카 부트캠프 참여자들만을 위한 비공개 커뮤니티 피드형 SNS | -->
-
-</br>
-
-## 🎓 Education
-|Experience|Detail|Period|
-|---|---|---|
-| **LG유플러스 SW아카데미 유레카 3기** | 백엔드 과정 | 2025.08 ~ |
-| 전대학교 | 컴퓨터공학과 | 2020.03 ~ 26.02 (예정)|
+<!--| <img src="https://github.com/user-attachments/assets/edc8ae3e-82e7-4277-8319-d3ac1766d920" width="80" height="80"> </br> [Eurekagram](https://github.co북대학교 | 컴퓨터공학과 | 2020.03 ~ 26.02 (예정)|
 
 </br>
 
