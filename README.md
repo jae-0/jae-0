@@ -1,10 +1,10 @@
-## 🌐 Link
-<!-- [<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
+<!-- ## 🌐 Link
+[<img src="https://github.com/user-attachments/assets/bce45b47-75f6-4bdd-a1ca-6bb70377d154" width="55" height="55">](https://taesin-portfolio.notion.site/?source=copy_link) &nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/23da5180-c39b-48f6-8f61-c5a3312dffd2" width="55" height="55">](https://gym-developer.tistory.com/) &nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/94f89e0f-320d-4b5e-bbe3-bce51a82f1f1" width="55" height="55">](https://blog.naver.com/gym_developer) &nbsp;&nbsp;
-[<img src="https://github.com/user-attachments/assets/c19d8436-0333-493f-881d-d1ea3b7c830d" width="55" height="55">](mailto:kjk06119@gmail.com) -->
+[<img src="https://github.com/user-attachments/assets/c19d8436-0333-493f-881d-d1ea3b7c830d" width="55" height="55">](mailto:kjk06119@gmail.com) 
 
-</br> 
+</br> -->
 
 ## 👤 About Me
 한계를 넓히고 다양한 경험을 즐기는 개발자 윤재영입니다.</br>
