@@ -16,8 +16,10 @@
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/4d17cb7c-e079-40ac-b183-db85ff46462a" width="80" height="80"> </br> [InSquare](https://github.com/thduss/android_2023/blob/master/README.md) | 직장인 뿐만 아니라 학생까지 사용할 수 있는 다양한 기능의 모바일 명함첩 |
 | <img src="https://github.com/user-attachments/assets/9dd18854-39d9-4647-ad2b-d7d6da03e8ae" width="80" height="80"> </br> [fingerprint-attendance](https://github.com/JEONJIHO817/fingerprint-attendance/blob/main/README.md) | 부정근로를 방지하기 위한 모바일 지문 인식 출석부 |
+| <img src="https://github.com/user-attachments/assets/e0b31015-a067-4d0e-a58f-d33d2efaa4ba" width="80" height="80"> </br> [SW-Eng Proj](https://github.com/jae-0/SW-Engineering-Project)| SW 공학의 초점을 맞춘 자동차 전장 제어 시스템 구현 프로젝트 |
 
-</br>
+</br>\
+
 
 
 ## 💻 Experience
