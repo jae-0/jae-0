@@ -25,15 +25,22 @@
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
-<!--| 2025 인디(inD)게임잼대전 | Unity와 C#을 활용, 물리 엔진 기반의 인터랙티브 게임 설계 및 구현 | 2025.07 ~ 25.07 | -->
-
+| SW 캡스톤디자인 경진대회 | 전북도청과 함께한 (총장상)오픈소스 기반 생성형 AI 시스템 구축 프로젝트 - 대상 수상 | 2025.06 |
+| SW 창업 아이디어 경진대회 | 중고 전자기기 거래 애플리케이션 아이디어 제안 - 장려상 수상 | 2025.06 |
+| 논문: Improved Analysis and Design of ADR Algorithm for Energy-Efficient LoRaWAN System | IEEE Communications Letters | 2025.05 |
+| 논문: 이레이저 코딩이 적용된 분산 저장 시스템 환경 시연을 위한 가상 머신 테스트베드 구축 | 제35회 JCCI 학회 | 2025.04 |
+| 교육 조교 | 2025년 1학기 컴퓨터네트워크 과목 조교 | 2025.03 ~ 2025.06 |
+| 논문: ADR-MIN 알고리즘 디바이스 마진 최적화 연구 | 2024 KICS 추계학술대회 제출 | 2024.11 |
+| 교육 조교 | 2024년 2학기 컴퓨터구조 과목 조교 | 2024.09 ~ 2024.12 |
+| SW중심대학 지원사업 주관 - AI 온라인 경진대회 | Fake 음성 식별 정확도 성능 향상 - 은상 (총장상) 수상 | 2024.06 |
+| 컴퓨팅 및 통신 시스템 연구실 | ADR 알고리즘 기반 무선통신 최적화 및 소거코딩 분산 스토리지 연구 | 2023.03 ~  |
 
 </br>
 
 ## 🛠️ Stacks
 |Category|Main Stack|Sub Stack|
 |---|---|---|
-|**Backend**| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> --> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> |
+|**Backend**| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/></a> <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> --> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>  |
 |**Database**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a> | |
 |**DevOps**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> |  |
 |**Infra**| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> |
