@@ -32,6 +32,7 @@
 ## 💻 Experience
 |Experience|Detail|Period|
 |---|---|---|
+| 하계 직무체험 인턴십 | 온라인 교육 영상 플랫폼 개발 - Ktech | 2025.07 ~ 2025.08 |
 | SW 캡스톤디자인 경진대회 | 전북도청과 함께한 오픈소스 기반 생성형 AI 시스템 구축 프로젝트 - 대상(총장상) 수상 | 2025.06 |
 | SW 창업 아이디어 경진대회 | 중고 전자기기 거래 애플리케이션 아이디어 제안 - 장려상 수상 | 2025.06 |
 | [논문] Improved Analysis and Design of ADR Algorithm for Energy-Efficient LoRaWAN System | IEEE Communications Letters | 2025.05 |
