@@ -15,7 +15,6 @@
 ## 📽️ Projects
 |Project|Detail|
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/e105d229-1c92-4677-9889-88cf3e5dc705" width="80" height="80"> </br> [Ureka Community](https://github.com/jae-0/UrekaCommunity)| U+reka 수강생들을 위한 익명 커뮤니티 |
 | <img src="https://github.com/user-attachments/assets/4d17cb7c-e079-40ac-b183-db85ff46462a" width="80" height="80"> </br> [InSquare](https://github.com/thduss/android_2023/blob/master/README.md) | 직장인 뿐만 아니라 학생들도 사용할 수 있는 다양한 기능의 모바일 명함첩 |
 | <img src="https://github.com/user-attachments/assets/9dd18854-39d9-4647-ad2b-d7d6da03e8ae" width="80" height="80"> </br> [fingerprint-attendance](https://github.com/JEONJIHO817/fingerprint-attendance/blob/main/README.md) | 부정근로를 방지하기 위한 AWS 기반 모바일 지문 인식 출석부 |
 
