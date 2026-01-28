@@ -14,9 +14,10 @@
 
 ## 📽️ Projects
 
+
 |Project|Detail|
 |:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/ce83f60b-1c1b-4ff9-958d-bbc7039d6b12" width="80" height="80"> </br> [BillForU+](https://github.com/Ureca4/ureca4-be/blob/main/README.md) | 수백만 명의 사용자를 대상으로 하는 대용량 청구 데이터 정산 및 이벤트 기반 실시간 알림 발송 시스템 |
+| <img src="https://github.com/user-attachments/assets/58197ede-180a-46d8-b37b-242e3d27508d" width="80" height="80"> </br> [BillForU+](https://github.com/Ureca4/ureca4-be/blob/main/README.md) | 수백만 명의 사용자를 대상으로 하는 대용량 청구 데이터 정산 및 이벤트 기반 실시간 알림 발송 시스템 |
 | <img src="https://github.com/user-attachments/assets/4d17cb7c-e079-40ac-b183-db85ff46462a" width="80" height="80"> </br> [InSquare](https://github.com/thduss/android_2023/blob/master/README.md) | 직장인 뿐만 아니라 학생들도 사용할 수 있는 다양한 기능의 모바일 명함첩 |
 | <img src="https://github.com/user-attachments/assets/9dd18854-39d9-4647-ad2b-d7d6da03e8ae" width="80" height="80"> </br> [fingerprint-attendance](https://github.com/JEONJIHO817/fingerprint-attendance/blob/main/README.md) | 부정근로를 방지하기 위한 AWS 기반 모바일 지문 인식 출석부 |
 
@@ -45,7 +46,7 @@
 | [논문] ADR-MIN 알고리즘 디바이스 마진 최적화 연구 | 2024 KICS 추계학술대회 | 2024.11 |
 | 교육 조교 | 2024년 2학기 컴퓨터구조 과목 조교 | 2024.09 ~ 2024.12 |
 | SW중심대학 지원사업 주관 AI 온라인 경진대회 | Fake 음성 식별 정확도 성능 향상 - 은상(SW중심대학사업단장상) | 2024.06 |
-| 컴퓨팅 및 통신 시스템 학부 연구생 | ADR 알고리즘 기반 무선통신 최적화 및 소거코딩 분산 스토리지 연구 | 2023.03 ~  |
+| 컴퓨팅 및 통신 시스템 학부 연구생 | ADR 알고리즘 기반 무선통신 최적화 및 소거코딩 분산 스토리지 연구 | 2023.03 ~ 2026.01 |
 
 </br>
 
