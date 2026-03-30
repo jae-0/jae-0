@@ -4,7 +4,7 @@
 [<img src="https://github.com/user-attachments/assets/94f89e0f-320d-4b5e-bbe3-bce51a82f1f1" width="55" height="55">](https://blog.naver.com/gym_developer) &nbsp;&nbsp;
 [<img src="https://github.com/user-attachments/assets/c19d8436-0333-493f-881d-d1ea3b7c830d" width="55" height="55">](mailto:kjk06119@gmail.com) 
 
-</br> -->
+</br>
 
 ## 👤 About Me
 한계를 넓히고 다양한 경험을 즐기는 개발자 윤재영입니다.</br>
@@ -50,17 +50,23 @@
 | 컴퓨팅 및 통신 시스템 학부 연구생 | ADR 알고리즘 기반 무선통신 최적화 및 소거코딩 분산 스토리지 연구 | 2023.03.15 ~ 2026.01.16 |
 
 </br>
-
 ## 🛠️ Stacks
-|Category|Main Stack|Sub Stack|
-|---|---|---|
-|**Backend**| <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a> <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black"/></a> <!-- <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/></a> --> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java17-007396?style=flat-square&logo=coffeescript&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>  |
-|**Database**| <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a> | |
-|**DevOps**| <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> |  |
-|**Infra**| <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a> |
-|**Tool**| <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> |
 
-</br>
+
+</br>  -->
+<h3>Tech Stack</h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache-Kafka&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
+</p>
+
+<!-- </br>
 
 ## 💳 Certificate
 |Certificate|Code|Organ|Period|
@@ -68,8 +74,7 @@
 | **정보처리기사** |  | 한국산업인력공단 | 2025.06 |
 
 
-</br>
-
-  ## 🏆 Algorithm
+</br> -->
+### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodud0747)](https://solved.ac/wodud0747/) &nbsp;&nbsp;&nbsp; 
-[![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=wodud0747)](https://solved.ac/wodud0747/)
+<!-- [![Solved.ac Streak](http://mazandi.herokuapp.com/api?handle=wodud0747)](https://solved.ac/wodud0747/) -->
